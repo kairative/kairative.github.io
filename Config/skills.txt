@@ -1,11 +1,9 @@
-3D Modelling
-Sculpting
-Texturing
-High Poly Modelling
-UV-Unwrapping
-Retopology
-Hand-painted Texturing
-Weapon Modelling
-Environment Art
-Tileable Materials
-punching faces
+Graphic Design
+Motion Design
+Video Editing
+Script Writing
+Copy Writing
+UI Design
+VFX
+Cinematography
+Art Direction
