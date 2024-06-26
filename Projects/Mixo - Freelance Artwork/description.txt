@@ -1,9 +1,0 @@
-Mixo - Freelance Artwork
----
-A Rare Client Project That has always stuck with me 
----
-Software Tags - separated by commas (marmoset toolbag, unity, UE5, Blender, 3ds Max)
----
-thumbnail url (gets injected into your landing page) 
----
-Projects/Mixo - Freelance Artwork/Mixo - Freelance Artwork.html
