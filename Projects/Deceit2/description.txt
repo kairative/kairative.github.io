@@ -4,6 +4,6 @@ Some Design work surrounding the Deceit 2 Vampire DLC
 ---
 Software Tags - separated by commas (Adobe Photoshop, Unreal Engine)
 ---
-thumbnail url (gets injected into your landing page) 
+https://i.imgur.com/Q3hTSQP.png 
 ---
-Projects/Deceit 2 - Vampire DLC/Deceit 2 - Vampire DLC.html
+Projects/Deceit 2 - Vampire DLC/Deceit2.html
